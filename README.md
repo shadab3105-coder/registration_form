@@ -15,3 +15,7 @@ This is a simple and beginner-friendly **Registration Form** project built using
 - Fully responsive on mobile and desktop
 - Pure HTML & CSS# registration_form
 A responsive and clean user registration form built using only HTML5 and CSS. Mobile-friendly layout with modern UI styling.
+
+## 📸 Live Preview
+
+🌐 https://shadab3105-coder.github.io/registration_form/
