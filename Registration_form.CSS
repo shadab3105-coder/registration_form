@@ -1,0 +1,67 @@
+
+    body {
+      margin: 0;
+      font-family: 'Verdana', sans-serif;
+      background: linear-gradient(to right, #12365c, #f0f8ff);
+      padding: 30px;
+    }
+
+    h1,
+    h2 {
+      text-align: center;
+      color: #003366;
+    }
+
+    form {
+      background-color: #9fa88d;
+      max-width: 850px;
+      margin: auto;
+      padding: 35px 50px;
+      border-radius: 14px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    }
+
+    label {
+      display: block;
+      margin-top: 18px;
+      font-weight: 600;
+      color: #333;
+    }
+
+    input[type="text"],
+    input[type="tel"],
+    input[type="number"],
+    input[type="file"],
+    select {
+      width: 100%;
+      padding: 10px 12px;
+      margin-top: 6px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 14px;
+      background-color: #f9f9f9;
+      box-sizing: border-box;
+    }
+
+    input[type="radio"] {
+      margin-right: 10px;
+    }
+
+    hr {
+      margin: 30px 0;
+      border: none;
+      height: 1px;
+      background-color: #ddd;
+    }
+
+
+
+    select {
+      background-color: #fff;
+    }
+
+
+
+    nav {
+      padding: 30px;
+    }
